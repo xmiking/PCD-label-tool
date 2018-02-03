@@ -28,7 +28,6 @@ Get in this file, and type command "./label.sh"<br>
 >>>Slider `RX`: value of rotation angle in x-axis;<br>
 >>>Slider `RY`: value of rotation angle in y-axis;<br>
 >>>Slider `RZ`: value of rotation angle in z-axis;<br>
-<br>
 4. Click `Save` button, when the cube achieve the position you want.<br>
    You can see an corresponding Cube button show up.<br>
    Notes: If you want to change the position of a previous cube, you can click that cube button to select that cube.<br>
