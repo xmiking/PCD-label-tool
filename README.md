@@ -29,10 +29,10 @@ Get in this file, and type command "./label.sh"<br>
 >>>Slider `RY`: value of rotation angle in y-axis;<br>
 >>>Slider `RZ`: value of rotation angle in z-axis;<br>
 <br>
-3.1 If you want to add label, like "Pedestrian".<br>
+   3.1 If you want to add label, like "Pedestrian".<br>
 4. Click `Save` button, when the cube achieve the position you want.<br>
->You can see an corresponding Cube button show up.<br>
->Notes: If you want to change the position of a previous cube, you can click that cube button to select that cube.<br>
->>If you want to remove a previous cube, you can click cube button to select the cube, and click `remove` button<br>
+   You can see an corresponding Cube button show up.<br>
+   Notes: If you want to change the position of a previous cube, you can click that cube button to select that cube.<br>
+   If you want to remove a previous cube, you can click cube button to select the cube, and click `remove` button<br>
 5. If all cubes are satisfied and saved, click `finish` button to create xml file.<br>
->This xml file will be generated under 'save_dir', and the labed PCD file will be moved under this path too. <br>
+   This xml file will be generated under 'save_dir', and the labed PCD file will be moved under this path too. <br>
